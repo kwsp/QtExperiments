@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/microsoft/vcpkg-tool/main/docs/vcpkg.schema.json",
-  "name": "cpp-template",
+  "name": "qt-experiments",
   "version": "0.1",
-  "dependencies": []
+  "dependencies": ["qtbase"]
 }
